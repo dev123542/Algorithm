@@ -1,4 +1,4 @@
-package inputOutput;
+package backjoon.inputOutput;
 
 public class HelloWorld {
 	public static void main(String[] args) {
